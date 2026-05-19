@@ -28,7 +28,7 @@ export async function setupServer() {
     'http://localhost:5173',
     'http://localhost:5174',
     'http://localhost:3000',
-    'https://photo-to-recipe-frontend.vercel.app',
+    'https://photo-to-recipe-frontend-topaz.vercel.app/',
   ];
 
   app.use(
